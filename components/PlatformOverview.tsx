@@ -37,7 +37,7 @@ export default function PlatformOverview() {
             </span>
           </div>
           <div className="z-10">
-            <h4 className="font-h3 text-[18px] sm:text-[20px] mb-2">The Elevateaxis Way: Pre-Screened Motivated Buyers</h4>
+            <h4 className="font-h3 text-[18px] sm:text-[20px] mb-2">The Elevatexis Way: Pre-Screened Motivated Buyers</h4>
             <p className="text-xs sm:text-sm text-secondary-elevateaxis">
               Every lead answers qualification questions about their budget and purchase timeline before you speak with them. If 60% aren&apos;t qualified, you don&apos;t pay.
             </p>
