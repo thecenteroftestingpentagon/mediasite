@@ -1,3 +1,5 @@
+import Image from "next/image";
+
 const SMALL_CARDS = [
   { icon: "brush", label: "Custom Ad Creatives" },
   { icon: "target", label: "Target Customer Selection" },
@@ -29,10 +31,12 @@ export default function ElevateaxisStudioModule() {
       <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-6">
         {/* Large Card 1 */}
         <div className="bg-card-elevateaxis rounded-2xl border border-elevateaxis min-h-[260px] sm:h-[300px] flex flex-col justify-end relative overflow-hidden group hover:shadow-sm transition-shadow">
-          <img
-            alt="High-Ticket Luxury Property & Offer Engineering"
+          <Image
+            alt="Done-For-You Ad Creation & High Converting Campaigns - Elevateaxis"
+            src="/addImage.png"
+            width={1200}
+            height={675}
             className="absolute inset-0 w-full h-full object-cover group-hover:opacity-100 transition-opacity duration-500"
-            src="https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?q=80&w=1200&auto=format&fit=crop"
           />
           <div className="z-10 bg-white/20 backdrop-blur-xl border border-white/30 p-5 sm:p-6 rounded-b-2xl text-white">
             <h4 className="font-h3 text-lg sm:text-[20px] mb-2 text-white">1. Done-For-You Ad Creation &amp; Messaging</h4>

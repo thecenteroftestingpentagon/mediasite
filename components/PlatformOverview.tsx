@@ -1,3 +1,4 @@
+import Image from "next/image";
 import DashboardWidget from "./DashboardWidget";
 
 export default function PlatformOverview() {
@@ -46,10 +47,12 @@ export default function PlatformOverview() {
       </div>
 
       <div className="w-full min-h-[460px] sm:min-h-[560px] bg-panel-elevateaxis rounded-3xl border border-elevateaxis flex items-center justify-center overflow-hidden relative group p-4 sm:p-8">
-        <img
-          alt="Luxury Real Estate & High-Ticket Asset Pipeline"
-          className="w-full h-full object-cover opacity-80 group-hover:opacity-100 transition-opacity duration-500 absolute inset-0"
-          src="https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?q=80&w=1200&auto=format&fit=crop"
+        <Image
+          alt="High Converting Campaign Ad Strategy - Elevateaxis"
+          src="/addImage.png"
+          width={1200}
+          height={675}
+          className="w-full h-full object-cover opacity-85 group-hover:opacity-100 transition-opacity duration-500 absolute inset-0"
         />
         <div className="relative flex items-center justify-center z-20 w-full">
           {/* Glowing Accent Backgrounds */}
