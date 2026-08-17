@@ -222,9 +222,9 @@ export default function Navbar() {
             <hr className="border-zinc-200 my-1" />
             <a
               className="text-sm font-medium text-zinc-600 truncate"
-              href="mailto:swagatobhattacharjee07@gmail.com"
+              href="mailto:elevatexisdigital@gmail.com"
             >
-              ✉️ swagatobhattacharjee07@gmail.com
+              ✉️ elevatexisdigital@gmail.com
             </a>
             <a
               className="text-sm font-medium text-emerald-700 truncate"
