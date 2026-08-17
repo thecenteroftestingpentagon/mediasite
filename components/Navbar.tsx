@@ -7,12 +7,16 @@ export default function Navbar() {
 
   return (
     <>
-      {/* Top Infinite Running Announcement Ribbon (Overlap-Free) */}
+      {/* Top Infinite Running Announcement Ribbon */}
       <div className="fixed top-0 w-full z-50 bg-[#1C1B1B] text-white py-1.5 overflow-hidden border-b border-white/10 text-[11px] font-medium tracking-wide">
         <div className="flex whitespace-nowrap overflow-hidden group">
           <div className="flex shrink-0 items-center gap-8 animate-marquee group-hover:pause-marquee pr-8">
             <span className="flex items-center gap-1.5 text-amber-400 font-semibold">
               🇮🇳 India, Dubai &amp; Global High-Ticket Markets
+            </span>
+            <span className="opacity-40">◆</span>
+            <span className="text-white font-bold tracking-wider uppercase">
+              Elevateaxis &mdash; Where Strategy Becomes Scale
             </span>
             <span className="opacity-40">◆</span>
             <span className="text-zinc-300">
@@ -47,6 +51,10 @@ export default function Navbar() {
               🇮🇳 India, Dubai &amp; Global High-Ticket Markets
             </span>
             <span className="opacity-40">◆</span>
+            <span className="text-white font-bold tracking-wider uppercase">
+              Elevateaxis &mdash; Where Strategy Becomes Scale
+            </span>
+            <span className="opacity-40">◆</span>
             <span className="text-zinc-300">
               Capped at 40 Client Seats for 2026
             </span>
@@ -77,10 +85,13 @@ export default function Navbar() {
         <div className="max-w-[1280px] mx-auto px-4 sm:px-8 flex justify-between items-center h-[64px] sm:h-[72px]">
           <div className="flex items-center gap-6 md:gap-12">
             <a
-              className="text-lg font-bold tracking-tighter text-zinc-900 text-[18px] sm:text-[20px] font-h1"
+              className="text-lg font-bold tracking-tighter text-zinc-900 text-[18px] sm:text-[20px] font-h1 flex items-baseline gap-2"
               href="#"
             >
-              Elevateaxis
+              <span>Elevateaxis</span>
+              <span className="hidden xl:inline-block text-[10px] font-normal tracking-normal text-zinc-500 italic">
+                Where Strategy Becomes Scale
+              </span>
             </a>
             <div className="hidden md:flex items-center gap-6">
               <a

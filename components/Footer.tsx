@@ -7,7 +7,7 @@ export default function Footer() {
             Elevateaxis
           </span>
           <span className="text-xs sm:text-sm text-[#6B6B6B] font-body-md">
-            © 2026 Elevateaxis. High-Converting Customer Acquisition &amp; Revenue Systems.
+            © 2024 Elevateaxis &mdash; Where Strategy Becomes Scale. High-Converting Customer Acquisition Systems.
           </span>
         </div>
         <div className="flex flex-col sm:flex-row items-center gap-4 sm:gap-6 text-center">
