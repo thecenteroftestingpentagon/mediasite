@@ -104,7 +104,7 @@ export default function Navbar() {
               className="text-lg font-bold tracking-tighter text-zinc-900 text-[18px] sm:text-[20px] font-h1"
               href="#"
             >
-              Elevateaxis
+              Elevatexis
             </a>
             <div className="hidden md:flex items-center gap-6">
               <a
