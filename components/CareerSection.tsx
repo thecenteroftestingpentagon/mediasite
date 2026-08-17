@@ -26,9 +26,9 @@ export default function CareerSection() {
               </span>
               <a
                 className="bg-primary text-on-primary text-center px-6 py-3 rounded-full font-medium text-sm sm:text-base transition-all hover:bg-opacity-90 shadow-md"
-                href="mailto:swagatobhattacharjee07@gmail.com?subject=Application%20for%20Elevateaxis%20Team"
+                href="mailto:elevatexisdigital@gmail.com?subject=Application%20for%20Elevateaxis%20Team"
               >
-                Apply Now &mdash; Join Elevateaxis
+                Apply Now &mdash; Join Elevatexis
               </a>
             </div>
           </div>
@@ -38,7 +38,7 @@ export default function CareerSection() {
             <div className="relative w-full aspect-[4/3] rounded-2xl overflow-hidden border border-white/60 shadow-2xl bg-surface-variant/40 group">
               <Image
                 src="/estate.png"
-                alt="Exceptional Service & Elite Team Estate - Elevateaxis"
+                alt="Exceptional Service & Elite Team Estate - Elevatexis"
                 fill
                 sizes="(max-width: 1024px) 100vw, 50vw"
                 className="object-cover rounded-2xl group-hover:scale-105 transition-transform duration-700"
@@ -46,7 +46,7 @@ export default function CareerSection() {
               />
               <div className="absolute inset-0 bg-gradient-to-t from-black/40 via-transparent to-transparent"></div>
               <a
-                href="mailto:swagatobhattacharjee07@gmail.com?subject=Application%20for%20Elevateaxis%20Team"
+                href="mailto:elevatexisdigital@gmail.com?subject=Application%20for%20Elevateaxis%20Team"
                 className="absolute bottom-4 left-4 right-4 bg-white/20 hover:bg-white/30 backdrop-blur-md p-3.5 rounded-xl border border-white/40 text-white text-xs font-medium flex items-center justify-between transition-all group-hover:border-white/70"
               >
                 <span>High Performance &middot; Limitless Incentives</span>
