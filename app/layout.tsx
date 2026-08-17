@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Elevateaxis - Bringing technology to life",
+  title: "Elevatexis - Bringing technology to life",
   description: "Making digital experiences sound human",
 };
 
