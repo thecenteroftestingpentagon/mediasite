@@ -1,3 +1,5 @@
+import Image from "next/image";
+
 export default function Footer() {
   return (
     <footer className="w-full border-t border-zinc-200 mt-auto py-8 sm:py-12 bg-transparent">
@@ -24,6 +26,23 @@ export default function Footer() {
             rel="noopener noreferrer"
           >
             Book 15-Min Strategy Call
+          </a>
+
+          {/* Built by Ace Intelligence */}
+          <a
+            href="https://aceintelligence.systems"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="flex items-center gap-2 text-xs text-[#6B6B6B] hover:text-primary transition-opacity hover:opacity-100 group border-t sm:border-t-0 sm:border-l border-zinc-200 pt-3 sm:pt-0 sm:pl-6"
+          >
+            <span className="font-medium">Built by</span>
+            <Image
+              src="/aceintelligence.png"
+              alt="Ace Intelligence"
+              width={120}
+              height={30}
+              className="h-6 w-auto object-contain transition-transform group-hover:scale-105"
+            />
           </a>
         </div>
       </div>
