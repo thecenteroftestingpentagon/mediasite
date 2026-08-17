@@ -16,9 +16,9 @@ export default function Footer() {
           <div className="flex flex-col items-center sm:items-start gap-1">
             <a
               className="text-xs sm:text-sm text-[#6B6B6B] hover:text-primary transition-colors font-body-md"
-              href="mailto:swagatobhattacharjee07@gmail.com"
+              href="mailto:elevatexisdigital@gmail.com"
             >
-              swagatobhattacharjee07@gmail.com
+              elevatexisdigital@gmail.com
             </a>
             <a
               className="text-xs sm:text-sm text-emerald-700 hover:text-emerald-800 transition-colors font-medium flex items-center gap-1"
