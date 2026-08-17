@@ -20,7 +20,7 @@ export default function HeroSection() {
             </a>
             <a
               className="bg-transparent border border-outline text-primary text-center px-6 py-3.5 sm:py-3 rounded-full font-medium text-sm sm:text-base transition-all hover:bg-surface-variant"
-              href="mailto:swagatobhattacharjee07@gmail.com"
+              href="mailto:elevatexisdigital@gmail.com"
             >
               Email Us Directly
             </a>
