@@ -6,10 +6,10 @@ export default function Footer() {
       <div className="max-w-[1280px] mx-auto px-4 sm:px-8 flex flex-col md:flex-row justify-between items-center gap-6 sm:gap-8">
         <div className="flex flex-col md:flex-row items-center text-center md:text-left gap-3 md:gap-8">
           <span className="text-lg font-bold tracking-tighter text-zinc-900 font-h3 text-[18px] sm:text-[20px]">
-            Elevateaxis
+            Elevatexis
           </span>
           <span className="text-xs sm:text-sm text-[#6B6B6B] font-body-md">
-            © 2026 Elevateaxis. High-Converting Customer Acquisition Systems.
+            © 2026 Elevatexis. High-Converting Customer Acquisition Systems.
           </span>
         </div>
         <div className="flex flex-col sm:flex-row items-center gap-4 sm:gap-6 text-center">
