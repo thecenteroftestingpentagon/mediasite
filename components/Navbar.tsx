@@ -27,9 +27,14 @@ export default function Navbar() {
               ⚡ Zero Tech Setup Needed &mdash; We Handle Everything
             </span>
             <span className="opacity-40">◆</span>
-            <span className="text-zinc-300">
-              📲 Instant WhatsApp &amp; Phone Lead Alerts
-            </span>
+            <a
+              href="https://wa.me/918582807895"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-emerald-300 hover:text-white transition-colors flex items-center gap-1 font-semibold"
+            >
+              💬 WhatsApp Us: +91 85828 07895
+            </a>
             <span className="opacity-40">◆</span>
             <span className="text-emerald-400 font-semibold">
               🛡️ 60% Lead Qualification Guarantee Or You Don&apos;t Pay
@@ -59,9 +64,14 @@ export default function Navbar() {
               ⚡ Zero Tech Setup Needed &mdash; We Handle Everything
             </span>
             <span className="opacity-40">◆</span>
-            <span className="text-zinc-300">
-              📲 Instant WhatsApp &amp; Phone Lead Alerts
-            </span>
+            <a
+              href="https://wa.me/918582807895"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-emerald-300 hover:text-white transition-colors flex items-center gap-1 font-semibold"
+            >
+              💬 WhatsApp Us: +91 85828 07895
+            </a>
             <span className="opacity-40">◆</span>
             <span className="text-emerald-400 font-semibold">
               🛡️ 60% Lead Qualification Guarantee Or You Don&apos;t Pay
@@ -118,10 +128,12 @@ export default function Navbar() {
 
           <div className="hidden md:flex items-center gap-4">
             <a
-              className="hidden lg:inline-block text-xs font-medium text-zinc-600 hover:text-primary transition-colors"
-              href="mailto:swagatobhattacharjee07@gmail.com"
+              className="hidden lg:inline-block text-xs font-medium text-emerald-700 hover:text-emerald-800 transition-colors font-mono"
+              href="https://wa.me/918582807895"
+              target="_blank"
+              rel="noopener noreferrer"
             >
-              swagatobhattacharjee07@gmail.com
+              💬 +91 85828 07895
             </a>
             <a
               className="bg-primary text-on-primary px-4 py-2 rounded-full font-medium transition-all scale-98 active:opacity-80 text-[14px] font-body-md"
@@ -199,6 +211,14 @@ export default function Navbar() {
               href="mailto:swagatobhattacharjee07@gmail.com"
             >
               ✉️ swagatobhattacharjee07@gmail.com
+            </a>
+            <a
+              className="text-sm font-medium text-emerald-700 truncate"
+              href="https://wa.me/918582807895"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              💬 +91 85828 07895 &middot; Let&apos;s chat on WhatsApp
             </a>
             <a
               className="bg-primary text-on-primary text-center px-4 py-3 rounded-full font-medium text-sm mt-2"

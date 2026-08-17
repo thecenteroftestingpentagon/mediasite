@@ -13,12 +13,22 @@ export default function Footer() {
           </span>
         </div>
         <div className="flex flex-col sm:flex-row items-center gap-4 sm:gap-6 text-center">
-          <a
-            className="text-xs sm:text-sm text-[#6B6B6B] hover:text-primary transition-colors font-body-md"
-            href="mailto:swagatobhattacharjee07@gmail.com"
-          >
-            swagatobhattacharjee07@gmail.com
-          </a>
+          <div className="flex flex-col items-center sm:items-start gap-1">
+            <a
+              className="text-xs sm:text-sm text-[#6B6B6B] hover:text-primary transition-colors font-body-md"
+              href="mailto:swagatobhattacharjee07@gmail.com"
+            >
+              swagatobhattacharjee07@gmail.com
+            </a>
+            <a
+              className="text-xs sm:text-sm text-emerald-700 hover:text-emerald-800 transition-colors font-medium flex items-center gap-1"
+              href="https://wa.me/918582807895"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              💬 +91 85828 07895 &middot; WhatsApp Us
+            </a>
+          </div>
           <a
             className="text-xs sm:text-sm text-[#6B6B6B] hover:text-primary transition-colors font-body-md"
             href="https://cal.com/om-choksi-whpxfw/15min"
