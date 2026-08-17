@@ -3,10 +3,6 @@ export default function HeroSection() {
     <section className="max-w-[1280px] mx-auto px-4 sm:px-8 mb-[80px] sm:mb-[140px] pt-8 sm:pt-4">
       <div className="grid grid-cols-1 lg:grid-cols-12 gap-6 sm:gap-8 items-start">
         <div className="lg:col-span-7 flex flex-col gap-6 sm:gap-8">
-          <div className="inline-flex items-center gap-2 bg-surface-container-low border border-elevateaxis px-3.5 py-1.5 rounded-full text-xs font-semibold text-primary w-fit shadow-sm">
-            <span className="w-2 h-2 rounded-full bg-emerald-500 animate-pulse"></span>
-            Guaranteed Leads &middot; 60% Qualification Guarantee
-          </div>
           <h1 className="font-h1 text-4xl sm:text-6xl lg:text-h1 text-primary leading-tight">
             We Bring You Real Paying Customers — Guaranteed.
           </h1>

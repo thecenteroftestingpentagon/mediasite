@@ -5,10 +5,10 @@ export default function PlatformOverview() {
     <section id="the-framework" className="max-w-[1280px] mx-auto px-4 sm:px-8 mb-[100px] sm:mb-[180px]">
       <div className="text-center max-w-3xl mx-auto mb-10 sm:mb-16">
         <h2 className="font-h2 text-h2 text-primary mb-4 sm:mb-6">
-          Why Most Lead Generation Agencies Fail You (And How We Fix It)
+          Stop Paying For 500 Lead Forms That Never Pick Up The Phone.
         </h2>
         <p className="font-body-lg text-body-lg text-secondary-elevateaxis">
-          Most agencies brag about giving you hundreds of &quot;cheap leads&quot;, but your sales team spends all day calling fake numbers. We focus on real customer sales.
+          Your sales team shouldn&apos;t waste 40 hours a week calling fake numbers, tire-kickers, and people who &quot;don&apos;t remember opting in&quot;. We filter out the noise and put verified, high-budget buyers directly on your calendar.
         </p>
       </div>
       <div className="grid grid-cols-1 md:grid-cols-2 gap-6 sm:gap-8 mb-8 sm:mb-12">
@@ -21,9 +21,9 @@ export default function PlatformOverview() {
             </span>
           </div>
           <div className="z-10">
-            <h4 className="font-h3 text-[18px] sm:text-[20px] mb-2">Generic Agencies (Junk Leads)</h4>
+            <h4 className="font-h3 text-[18px] sm:text-[20px] mb-2">The Old Way: Wasted Time &amp; Burnt Out Sales Teams</h4>
             <p className="text-xs sm:text-sm text-secondary-elevateaxis">
-              They send 500 low-quality form fills with disconnected numbers, people looking for freebies, and leads who never remember filling out a form.
+              Agencies hand you spreadsheets of 500 cheap leads. Your team dials all day, hits disconnected numbers, and gets yelled at by people who never meant to fill out a form.
             </p>
           </div>
         </div>
@@ -37,9 +37,9 @@ export default function PlatformOverview() {
             </span>
           </div>
           <div className="z-10">
-            <h4 className="font-h3 text-[18px] sm:text-[20px] mb-2">The Elevateaxis Way (Guaranteed Buyers)</h4>
+            <h4 className="font-h3 text-[18px] sm:text-[20px] mb-2">The Elevateaxis Way: Pre-Screened Motivated Buyers</h4>
             <p className="text-xs sm:text-sm text-secondary-elevateaxis">
-              We create targeted ads, screen every lead for budget &amp; intent, and only send you motivated people ready to buy your product or service.
+              Every lead answers qualification questions about their budget and purchase timeline before you speak with them. If 60% aren&apos;t qualified, you don&apos;t pay.
             </p>
           </div>
         </div>
