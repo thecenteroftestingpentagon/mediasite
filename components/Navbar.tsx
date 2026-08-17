@@ -7,10 +7,10 @@ export default function Navbar() {
 
   return (
     <>
-      {/* Top Infinite Running Announcement Ribbon */}
+      {/* Top Infinite Running Announcement Ribbon (Non-Stop Right to Left) */}
       <div className="fixed top-0 w-full z-50 bg-[#1C1B1B] text-white py-1.5 overflow-hidden border-b border-white/10 text-[11px] font-medium tracking-wide">
-        <div className="flex whitespace-nowrap overflow-hidden group">
-          <div className="flex shrink-0 items-center gap-8 animate-marquee group-hover:pause-marquee pr-8">
+        <div className="flex whitespace-nowrap overflow-hidden">
+          <div className="flex shrink-0 items-center gap-8 animate-marquee pr-8">
             <span className="flex items-center gap-1.5 text-amber-400 font-semibold">
               🇮🇳 India, Dubai &amp; Global High-Ticket Markets
             </span>
@@ -46,7 +46,7 @@ export default function Navbar() {
 
           <div
             aria-hidden="true"
-            className="flex shrink-0 items-center gap-8 animate-marquee group-hover:pause-marquee pr-8"
+            className="flex shrink-0 items-center gap-8 animate-marquee pr-8"
           >
             <span className="flex items-center gap-1.5 text-amber-400 font-semibold">
               🇮🇳 India, Dubai &amp; Global High-Ticket Markets
