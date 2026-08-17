@@ -7,10 +7,10 @@ export default function Navbar() {
 
   return (
     <>
-      {/* Top Announcement Ribbon */}
-      <div className="fixed top-0 w-full z-50 bg-[#1C1B1B] text-white py-1.5 px-4 overflow-hidden border-b border-white/10 text-[11px] font-medium tracking-wide">
-        <div className="max-w-[1280px] mx-auto flex items-center justify-between">
-          <div className="flex items-center gap-4 overflow-x-auto no-scrollbar whitespace-nowrap">
+      {/* Top Infinite Running Announcement Ribbon */}
+      <div className="fixed top-0 w-full z-50 bg-[#1C1B1B] text-white py-1.5 overflow-hidden border-b border-white/10 text-[11px] font-medium tracking-wide">
+        <div className="flex whitespace-nowrap overflow-hidden group">
+          <div className="flex items-center gap-6 animate-marquee group-hover:pause-marquee pr-6">
             <span className="flex items-center gap-1 text-amber-400">
               🇮🇳 India, Dubai &amp; Global High-Ticket Markets
             </span>
@@ -23,7 +23,52 @@ export default function Navbar() {
               Guaranteed 60% Qualified Leads &amp; 40% More Booked Meetings
             </span>
             <span className="opacity-40">◆</span>
+            <span className="text-amber-400 font-medium">
+              ⚡ Zero Tech Setup Needed &mdash; We Handle Everything
+            </span>
+            <span className="opacity-40">◆</span>
+            <span className="text-zinc-300">
+              📲 Instant WhatsApp &amp; Phone Lead Alerts
+            </span>
+            <span className="opacity-40">◆</span>
+            <span className="text-emerald-400 font-semibold">
+              🛡️ 60% Lead Qualification Guarantee Or You Don&apos;t Pay
+            </span>
+            <span className="opacity-40">◆</span>
             <span className="text-zinc-300">Booking Strategy Calls Now</span>
+            <span className="opacity-40">◆</span>
+          </div>
+
+          <div
+            aria-hidden="true"
+            className="flex items-center gap-6 animate-marquee group-hover:pause-marquee pr-6"
+          >
+            <span className="flex items-center gap-1 text-amber-400">
+              🇮🇳 India, Dubai &amp; Global High-Ticket Markets
+            </span>
+            <span className="opacity-40">◆</span>
+            <span className="text-zinc-300">
+              Capped at 40 Client Seats for 2026
+            </span>
+            <span className="opacity-40">◆</span>
+            <span className="text-emerald-400 font-semibold">
+              Guaranteed 60% Qualified Leads &amp; 40% More Booked Meetings
+            </span>
+            <span className="opacity-40">◆</span>
+            <span className="text-amber-400 font-medium">
+              ⚡ Zero Tech Setup Needed &mdash; We Handle Everything
+            </span>
+            <span className="opacity-40">◆</span>
+            <span className="text-zinc-300">
+              📲 Instant WhatsApp &amp; Phone Lead Alerts
+            </span>
+            <span className="opacity-40">◆</span>
+            <span className="text-emerald-400 font-semibold">
+              🛡️ 60% Lead Qualification Guarantee Or You Don&apos;t Pay
+            </span>
+            <span className="opacity-40">◆</span>
+            <span className="text-zinc-300">Booking Strategy Calls Now</span>
+            <span className="opacity-40">◆</span>
           </div>
         </div>
       </div>
