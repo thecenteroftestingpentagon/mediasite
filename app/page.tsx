@@ -4,6 +4,7 @@ import HeroProductPanel from "@/components/HeroProductPanel";
 import PlatformOverview from "@/components/PlatformOverview";
 import ElevateaxisStudioModule from "@/components/ElevateaxisStudioModule";
 import ElevateaxisAgentsModule from "@/components/ElevateaxisAgentsModule";
+import CareerSection from "@/components/CareerSection";
 import SignOffSection from "@/components/SignOffSection";
 import Footer from "@/components/Footer";
 
@@ -17,6 +18,7 @@ export default function Home() {
         <PlatformOverview />
         <ElevateaxisStudioModule />
         <ElevateaxisAgentsModule />
+        <CareerSection />
         <SignOffSection />
       </main>
       <Footer />
