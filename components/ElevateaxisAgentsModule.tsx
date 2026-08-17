@@ -3,19 +3,19 @@ export default function ElevateaxisAgentsModule() {
     <section id="qualification" className="max-w-[1280px] mx-auto px-4 sm:px-8 mb-[100px] sm:mb-[140px]">
       <div className="flex items-center gap-4 mb-6 sm:mb-8">
         <span className="font-label-caps text-label-caps bg-surface-variant text-primary px-3 py-1 rounded-full text-xs">
-          We're Not For Everyone
+          Businesses We Help
         </span>
         <div className="h-px bg-elevateaxis flex-grow opacity-50"></div>
       </div>
       <div className="grid grid-cols-1 lg:grid-cols-12 gap-6 lg:gap-12 mb-8 sm:mb-12">
         <div className="lg:col-span-5">
           <h2 className="font-h2 text-3xl sm:text-4xl md:text-[48px] text-primary leading-tight">
-            Stop Buying Leads. Start Building Pipeline.
+            Who Can Hire Us For Lead Generation?
           </h2>
         </div>
         <div className="lg:col-span-6 lg:col-start-7 flex items-end">
           <p className="font-body-lg text-sm sm:text-body-lg text-secondary-elevateaxis">
-            We partner exclusively with growth-focused businesses that have a proven offer and the operational capacity to close high-volume sales opportunities.
+            We work with established business owners who want a reliable, steady stream of verified customer leads every single month.
           </p>
         </div>
       </div>
@@ -27,27 +27,27 @@ export default function ElevateaxisAgentsModule() {
             <div className="w-[180px] sm:w-[200px] h-[180px] sm:h-[200px] rounded-full bg-gradient-to-r from-purple-400 to-pink-300 blur-2xl absolute ml-20 mt-20"></div>
           </div>
           <div className="z-10 bg-surface/80 backdrop-blur-sm self-start px-3 sm:px-4 py-1.5 sm:py-2 rounded-full border border-elevateaxis text-xs sm:text-sm font-medium mb-auto">
-            Growth Partner Criteria
+            Client Requirements
           </div>
           <div className="z-10 mt-auto bg-white/20 backdrop-blur-2xl p-4 sm:p-6 rounded-2xl sm:rounded-[2rem] border border-white/40 shadow-[0_32px_64px_-16px_rgba(0,0,0,0.1)]">
             <div className="flex gap-3 sm:gap-4 items-center mb-3 sm:mb-4">
               <div className="w-8 sm:w-10 h-8 sm:h-10 bg-primary rounded-full flex items-center justify-center shadow-sm shrink-0">
                 <span className="material-symbols-outlined text-white text-xs sm:text-sm">
-                  check_circle
+                  help_outline
                 </span>
               </div>
               <div className="bg-white/40 backdrop-blur-md border border-white/50 px-3 sm:px-4 py-2 rounded-xl sm:rounded-2xl rounded-tl-sm text-xs sm:text-sm shadow-sm">
-                Are you equipped to handle 30+ new qualified customer conversations per month?
+                Is your business ready to take on 30+ new customer inquiries &amp; appointments every month?
               </div>
             </div>
             <div className="flex gap-3 sm:gap-4 items-center flex-row-reverse">
               <div className="w-8 sm:w-10 h-8 sm:h-10 bg-white/40 backdrop-blur-md border border-white/50 rounded-full flex items-center justify-center shrink-0">
                 <span className="material-symbols-outlined text-primary text-xs sm:text-sm">
-                  business
+                  thumb_up
                 </span>
               </div>
               <div className="bg-primary/90 text-on-primary px-3 sm:px-4 py-2 rounded-xl sm:rounded-2xl rounded-tr-sm text-xs sm:text-sm shadow-lg">
-                Yes, we have a validated offer and sales team ready for pipeline scale.
+                Yes! We have a great offer and capacity to handle new paying clients.
               </div>
             </div>
           </div>
@@ -73,9 +73,9 @@ export default function ElevateaxisAgentsModule() {
             Industries We Scale
           </div>
           <div className="z-10 mt-auto bg-white/30 backdrop-blur-2xl p-5 sm:p-8 rounded-2xl sm:rounded-[2rem] border border-white/50 shadow-[0_32px_64px_-16px_rgba(0,0,0,0.1)]">
-            <h4 className="font-h3 text-lg sm:text-[20px] mb-2">Real Estate, Healthcare, Construction, Fitness, Professional Services</h4>
+            <h4 className="font-h3 text-lg sm:text-[20px] mb-2">Real Estate, Healthcare, Contractors, Gyms, Professional Services</h4>
             <p className="text-xs sm:text-sm text-secondary-elevateaxis">
-              Customized acquisition architecture engineered specifically around your unit economics, lifetime value, and sales cycle duration.
+              Proven ad strategies built specifically for high-ticket businesses where getting even a few extra clients pays for your investment multiple times over.
             </p>
           </div>
         </div>

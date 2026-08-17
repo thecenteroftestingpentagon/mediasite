@@ -1,8 +1,8 @@
 const SMALL_CARDS = [
-  { icon: "ads_click", label: "Creative Strategy" },
-  { icon: "campaign", label: "Precision Paid Ads" },
-  { icon: "bolt", label: "Speed-To-Lead Automation" },
-  { icon: "bar_chart", label: "Revenue Attribution" },
+  { icon: "brush", label: "Custom Ad Creatives" },
+  { icon: "target", label: "Target Customer Selection" },
+  { icon: "chat", label: "Instant WhatsApp & Call Alerts" },
+  { icon: "verified", label: "60% Qualified Lead Guarantee" },
 ];
 
 export default function ElevateaxisStudioModule() {
@@ -10,19 +10,19 @@ export default function ElevateaxisStudioModule() {
     <section id="why-us" className="max-w-[1280px] mx-auto px-4 sm:px-8 mb-[100px] sm:mb-[180px]">
       <div className="flex items-center gap-4 mb-6 sm:mb-8">
         <span className="font-label-caps text-label-caps bg-surface-variant text-primary px-3 py-1 rounded-full text-xs">
-          The ELEVATE™ Growth System
+          Full Done-For-You Lead Generation
         </span>
         <div className="h-px bg-elevateaxis flex-grow opacity-50"></div>
       </div>
       <div className="grid grid-cols-1 lg:grid-cols-12 gap-6 lg:gap-12 mb-8 sm:mb-12">
         <div className="lg:col-span-5">
           <h2 className="font-h2 text-3xl sm:text-4xl md:text-[48px] text-primary leading-tight">
-            Read This Before You Hire Another Agency
+            What We Handle For You When You Hire Us
           </h2>
         </div>
         <div className="lg:col-span-6 lg:col-start-7 flex items-end">
           <p className="font-body-lg text-sm sm:text-body-lg text-secondary-elevateaxis">
-            Stop buying cheap lead lists or firing agencies that optimize for vanity CPL. ELEVATE™ is an end-to-end customer acquisition framework designed to turn paid traffic into closed contracts.
+            You don&apos;t need technical knowledge, complex software, or marketing experience. Our team takes care of all ad creation, page design, lead screening, and automated setup.
           </p>
         </div>
       </div>
@@ -35,9 +35,9 @@ export default function ElevateaxisStudioModule() {
             src="https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?q=80&w=1200&auto=format&fit=crop"
           />
           <div className="z-10 bg-white/20 backdrop-blur-xl border border-white/30 p-5 sm:p-6 rounded-b-2xl text-white">
-            <h4 className="font-h3 text-lg sm:text-[20px] mb-2 text-white">Customer Intelligence &amp; Offer Engineering</h4>
+            <h4 className="font-h3 text-lg sm:text-[20px] mb-2 text-white">1. Done-For-You Ad Creation &amp; Messaging</h4>
             <p className="text-xs sm:text-sm text-white/80">
-              We analyze your high-value customer profile and engineer positioning that makes your offer the obvious choice in your market.
+              We write your ad copy, design eye-catching visuals, and build high-converting pages that attract buyers interested in your exact service.
             </p>
           </div>
         </div>
@@ -46,13 +46,13 @@ export default function ElevateaxisStudioModule() {
           <div className="absolute inset-0 bg-gradient-to-br from-transparent to-surface-variant/30 opacity-0 group-hover:opacity-100 transition-opacity"></div>
           <div className="flex justify-between items-start z-10 mb-4">
             <span className="material-symbols-outlined text-secondary-elevateaxis text-3xl">
-              filter_alt
+              screening
             </span>
           </div>
           <div className="z-10">
-            <h4 className="font-h3 text-lg sm:text-[20px] mb-2">Lead Qualification &amp; CRM Automation</h4>
+            <h4 className="font-h3 text-lg sm:text-[20px] mb-2">2. Strict Lead Screening &amp; Instant Delivery</h4>
             <p className="text-xs sm:text-sm text-secondary-elevateaxis">
-              Multi-step qualification screening filters out low-intent prospects before they can touch your calendar, paired with instant SMS follow-up.
+              We ask budget and intent questions before leads reach you, so you only spend time talking to people who can actually afford your business.
             </p>
           </div>
         </div>

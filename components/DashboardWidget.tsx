@@ -5,16 +5,16 @@ export default function DashboardWidget() {
       <div className="flex items-center justify-between">
         <div className="flex flex-col">
           <span className="text-[10px] sm:text-[11px] font-bold uppercase tracking-[0.2em] sm:tracking-[0.25em] text-primary/50 mb-0.5 sm:mb-1">
-            ELEVATE™ Engine v4.2 PRO
+            ELEVATE™ Lead System
           </span>
           <span className="text-xs sm:text-sm font-semibold text-primary tracking-tight">
-            Active Acquisition Pipeline
+            Live Verified Buyers Tracker
           </span>
         </div>
         <div className="flex items-center gap-1.5 sm:gap-2.5 bg-emerald-500/15 px-2.5 sm:px-3 py-1 sm:py-1.5 rounded-full border border-emerald-500/25">
           <div className="w-1.5 sm:w-2 h-1.5 sm:h-2 rounded-full bg-emerald-500 animate-pulse"></div>
           <span className="text-[9px] sm:text-[10px] font-bold text-emerald-700 uppercase tracking-widest">
-            Performance
+            Guarantee Active
           </span>
         </div>
       </div>
@@ -41,7 +41,7 @@ export default function DashboardWidget() {
       <div className="grid grid-cols-3 gap-2 sm:gap-6 py-1 sm:py-2">
         <div className="flex flex-col gap-0.5 sm:gap-1">
           <span className="text-[9px] sm:text-[10px] uppercase tracking-widest text-secondary-elevateaxis font-semibold">
-            Speed-To-Lead
+            Fast Response
           </span>
           <div className="flex items-baseline gap-0.5 sm:gap-1">
             <span className="text-base sm:text-xl font-bold text-primary">&lt;60</span>
@@ -52,21 +52,21 @@ export default function DashboardWidget() {
         </div>
         <div className="flex flex-col gap-0.5 sm:gap-1">
           <span className="text-[9px] sm:text-[10px] uppercase tracking-widest text-secondary-elevateaxis font-semibold">
-            Qualification
+            Real Buyers
           </span>
           <div className="flex items-baseline gap-0.5 sm:gap-1">
-            <span className="text-base sm:text-xl font-bold text-primary">84.2</span>
-            <span className="text-[10px] sm:text-xs text-secondary-elevateaxis font-medium">%</span>
+            <span className="text-base sm:text-xl font-bold text-primary">60%+</span>
+            <span className="text-[10px] sm:text-xs text-secondary-elevateaxis font-medium">min</span>
           </div>
         </div>
         <div className="flex flex-col gap-0.5 sm:gap-1">
           <span className="text-[9px] sm:text-[10px] uppercase tracking-widest text-secondary-elevateaxis font-semibold">
-            Target ROAS
+            Guarantee
           </span>
           <div className="flex items-baseline gap-0.5 sm:gap-1">
-            <span className="text-base sm:text-xl font-bold text-primary">3.4x</span>
+            <span className="text-base sm:text-xl font-bold text-primary">100%</span>
             <span className="text-[10px] sm:text-xs text-secondary-elevateaxis font-medium">
-              att.
+              backed
             </span>
           </div>
         </div>
@@ -76,23 +76,23 @@ export default function DashboardWidget() {
       <div className="flex items-center justify-between border-t border-black/5 pt-4 sm:pt-6">
         <div className="flex items-center gap-3 sm:gap-6">
           <button className="material-symbols-outlined text-xl sm:text-2xl text-primary/50 hover:text-primary transition-colors">
-            analytics
+            support_agent
           </button>
           <button className="w-9 h-9 sm:w-12 sm:h-12 bg-primary text-on-primary rounded-full flex items-center justify-center shadow-lg hover:scale-110 transition-transform">
             <span className="material-symbols-outlined fill text-xl sm:text-2xl">
-              bolt
+              check
             </span>
           </button>
           <button className="material-symbols-outlined text-xl sm:text-2xl text-primary/50 hover:text-primary transition-colors">
-            check_circle
+            verified_user
           </button>
         </div>
         <div className="flex flex-col items-end gap-0.5 sm:gap-1">
           <span className="text-[10px] sm:text-[12px] font-mono font-bold text-primary bg-white/50 px-2 sm:px-3 py-0.5 sm:py-1 rounded-lg border border-white/60 shadow-sm">
-            Live Attributed Leads
+            Guaranteed Client Delivery
           </span>
           <span className="text-[8px] sm:text-[9px] font-bold text-secondary-elevateaxis/60 uppercase tracking-tighter">
-            Verified Customer Journey
+            Zero Risk For Your Business
           </span>
         </div>
       </div>

@@ -5,10 +5,10 @@ export default function PlatformOverview() {
     <section id="the-framework" className="max-w-[1280px] mx-auto px-4 sm:px-8 mb-[100px] sm:mb-[180px]">
       <div className="text-center max-w-3xl mx-auto mb-10 sm:mb-16">
         <h2 className="font-h2 text-h2 text-primary mb-4 sm:mb-6">
-          Two Core Bottlenecks. One Unified Acquisition Engine.
+          Why Most Lead Generation Agencies Fail You (And How We Fix It)
         </h2>
         <p className="font-body-lg text-body-lg text-secondary-elevateaxis">
-          Most agencies optimize for vanity clicks and cheap cost-per-lead (CPL) while your sales team starves. ELEVATE™ bridges paid traffic directly to qualified appointments and revenue attribution.
+          Most agencies brag about giving you hundreds of &quot;cheap leads&quot;, but your sales team spends all day calling fake numbers. We focus on real customer sales.
         </p>
       </div>
       <div className="grid grid-cols-1 md:grid-cols-2 gap-6 sm:gap-8 mb-8 sm:mb-12">
@@ -17,13 +17,13 @@ export default function PlatformOverview() {
           <div className="absolute inset-0 bg-gradient-to-br from-indigo-600/20 to-purple-600/30 opacity-60 group-hover:opacity-80 transition-opacity"></div>
           <div className="flex justify-between items-start z-10 mb-6">
             <span className="material-symbols-outlined text-secondary-elevateaxis text-3xl">
-              warning
+              cancel
             </span>
           </div>
           <div className="z-10">
-            <h4 className="font-h3 text-[18px] sm:text-[20px] mb-2">The Real Problem: Wasted Ad Spend</h4>
+            <h4 className="font-h3 text-[18px] sm:text-[20px] mb-2">Generic Agencies (Junk Leads)</h4>
             <p className="text-xs sm:text-sm text-secondary-elevateaxis">
-              Agencies brag about cheap lead forms, but 90% turn out to be disconnected numbers, tire-kickers, or buyers who never remember opting in.
+              They send 500 low-quality form fills with disconnected numbers, people looking for freebies, and leads who never remember filling out a form.
             </p>
           </div>
         </div>
@@ -33,13 +33,13 @@ export default function PlatformOverview() {
           <div className="absolute inset-0 bg-gradient-to-br from-emerald-600/20 to-teal-600/30 opacity-60 group-hover:opacity-80 transition-opacity"></div>
           <div className="flex justify-between items-start z-10 mb-6">
             <span className="material-symbols-outlined text-secondary-elevateaxis text-3xl">
-              verified
+              check_circle
             </span>
           </div>
           <div className="z-10">
-            <h4 className="font-h3 text-[18px] sm:text-[20px] mb-2">The ELEVATE Solution: Qualified Pipeline</h4>
+            <h4 className="font-h3 text-[18px] sm:text-[20px] mb-2">The Elevateaxis Way (Guaranteed Buyers)</h4>
             <p className="text-xs sm:text-sm text-secondary-elevateaxis">
-              We build custom qualification funnels, offer engineering, and automated follow-up systems so your sales team only speaks to motivated buyers.
+              We create targeted ads, screen every lead for budget &amp; intent, and only send you motivated people ready to buy your product or service.
             </p>
           </div>
         </div>

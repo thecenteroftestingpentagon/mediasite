@@ -6,18 +6,18 @@ export default function HeroProductPanel() {
         <div className="flex flex-col sm:flex-row justify-between items-center gap-4 z-10">
           <div className="flex flex-wrap justify-center bg-surface-container-low p-1 rounded-full border border-elevateaxis shadow-sm">
             <button className="px-3 sm:px-4 py-1.5 sm:py-2 bg-surface text-primary rounded-full text-xs sm:text-sm font-medium shadow-sm">
-              Offer Engineering
+              How We Work For You
             </button>
             <button className="px-3 sm:px-4 py-1.5 sm:py-2 text-secondary-elevateaxis rounded-full text-xs sm:text-sm font-medium hover:text-primary transition-colors">
-              Precision Paid Ads
+              Zero Tech Knowledge Needed
             </button>
             <button className="px-3 sm:px-4 py-1.5 sm:py-2 text-secondary-elevateaxis rounded-full text-xs sm:text-sm font-medium hover:text-primary transition-colors">
-              Automated Qualification
+              Guaranteed Qualified Leads
             </button>
           </div>
           <div className="bg-surface-container-low px-3 sm:px-4 py-1.5 sm:py-2 rounded-full border border-elevateaxis flex items-center gap-2">
             <span className="w-2 h-2 rounded-full bg-emerald-500"></span>
-            <span className="text-xs sm:text-sm font-medium">ELEVATE™ Acquisition Engine</span>
+            <span className="text-xs sm:text-sm font-medium">Elevateaxis Customer Engine</span>
           </div>
         </div>
 
@@ -42,7 +42,7 @@ export default function HeroProductPanel() {
             </span>
           </a>
           <span className="text-[10px] sm:text-xs font-bold uppercase tracking-widest text-primary/70 px-4">
-            Ad → Lead → Qualified → Appointment → Revenue
+            Create Ads → Filter Fake Leads → Send Real Buyers → You Make Sales
           </span>
         </div>
 
@@ -50,19 +50,16 @@ export default function HeroProductPanel() {
         <div className="flex flex-col sm:flex-row justify-between items-center gap-4 z-10 bg-surface/80 backdrop-blur-md p-4 rounded-2xl border border-elevateaxis">
           <div className="flex gap-4 sm:gap-6 overflow-x-auto no-scrollbar w-full sm:w-auto pb-2 sm:pb-0">
             <span className="text-xs sm:text-sm font-medium text-primary whitespace-nowrap">
-              1. Paid Ads Strategy
+              1. We Create Your Ads
             </span>
             <span className="text-xs sm:text-sm font-medium text-secondary-elevateaxis whitespace-nowrap">
-              2. Conversion Funnels
+              2. We Filter Out Junk Leads
             </span>
             <span className="text-xs sm:text-sm font-medium text-secondary-elevateaxis whitespace-nowrap">
-              3. Qualification
+              3. We Send Buyers to Your WhatsApp
             </span>
             <span className="text-xs sm:text-sm font-medium text-secondary-elevateaxis whitespace-nowrap">
-              4. CRM Follow-Up
-            </span>
-            <span className="text-xs sm:text-sm font-medium text-secondary-elevateaxis whitespace-nowrap">
-              5. Revenue Attribution
+              4. You Close The Sales
             </span>
           </div>
           <a
@@ -71,7 +68,7 @@ export default function HeroProductPanel() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Claim Free Audit
+            Hire Us Now
           </a>
         </div>
       </div>
