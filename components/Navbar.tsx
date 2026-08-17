@@ -40,7 +40,14 @@ export default function Navbar() {
               🛡️ 60% Lead Qualification Guarantee Or You Don&apos;t Pay
             </span>
             <span className="opacity-40">◆</span>
-            <span className="text-zinc-300">Booking Strategy Calls Now</span>
+            <a
+              href="https://cal.com/om-choksi-whpxfw/15min"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-amber-300 hover:text-white transition-colors font-semibold underline"
+            >
+              Booking Strategy Calls Now &rarr;
+            </a>
             <span className="opacity-40">◆</span>
           </div>
 
@@ -77,7 +84,14 @@ export default function Navbar() {
               🛡️ 60% Lead Qualification Guarantee Or You Don&apos;t Pay
             </span>
             <span className="opacity-40">◆</span>
-            <span className="text-zinc-300">Booking Strategy Calls Now</span>
+            <a
+              href="https://cal.com/om-choksi-whpxfw/15min"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-amber-300 hover:text-white transition-colors font-semibold underline"
+            >
+              Booking Strategy Calls Now &rarr;
+            </a>
             <span className="opacity-40">◆</span>
           </div>
         </div>
