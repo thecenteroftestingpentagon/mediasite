@@ -18,9 +18,9 @@ export default function SignOffSection() {
         </a>
         <a
           className="bg-transparent border border-outline text-primary text-center px-6 py-3.5 sm:py-3 rounded-full font-medium text-sm sm:text-base transition-all hover:bg-surface-variant truncate"
-          href="mailto:swagatobhattacharjee07@gmail.com"
+          href="mailto:elevatexisdigital@gmail.com"
         >
-          swagatobhattacharjee07@gmail.com
+          elevatexisdigital@gmail.com
         </a>
       </div>
       {/* WhatsApp Direct Chat below Email */}
