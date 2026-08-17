@@ -47,9 +47,9 @@ export default function PlatformOverview() {
 
       <div className="w-full min-h-[460px] sm:min-h-[560px] bg-panel-elevateaxis rounded-3xl border border-elevateaxis flex items-center justify-center overflow-hidden relative group p-4 sm:p-8">
         <img
-          alt="Acquisition Pipeline Control Center"
+          alt="Luxury Real Estate & High-Ticket Asset Pipeline"
           className="w-full h-full object-cover opacity-80 group-hover:opacity-100 transition-opacity duration-500 absolute inset-0"
-          src="https://images.unsplash.com/photo-1604076913837-52ab5629fba9?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+          src="https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?q=80&w=1200&auto=format&fit=crop"
         />
         <div className="relative flex items-center justify-center z-20 w-full">
           {/* Glowing Accent Backgrounds */}

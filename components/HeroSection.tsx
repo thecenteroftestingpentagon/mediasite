@@ -1,10 +1,14 @@
 export default function HeroSection() {
   return (
-    <section className="max-w-[1280px] mx-auto px-4 sm:px-8 mb-[80px] sm:mb-[140px] pt-4 sm:pt-0">
+    <section className="max-w-[1280px] mx-auto px-4 sm:px-8 mb-[80px] sm:mb-[140px] pt-8 sm:pt-4">
       <div className="grid grid-cols-1 lg:grid-cols-12 gap-6 sm:gap-8 items-start">
         <div className="lg:col-span-7 flex flex-col gap-6 sm:gap-8">
+          <div className="inline-flex items-center gap-2 bg-surface-container-low border border-elevateaxis px-3.5 py-1.5 rounded-full text-xs font-semibold text-primary w-fit">
+            <span className="w-2 h-2 rounded-full bg-emerald-500 animate-pulse"></span>
+            Performance Guarantee &middot; Capped at 40 Client Seats
+          </div>
           <h1 className="font-h1 text-4xl sm:text-6xl lg:text-h1 text-primary leading-tight">
-            We Don’t Generate Leads. We Generate Customers.
+            We Guarantee 60% Qualified Leads &amp; 40% More Booked Meetings.
           </h1>
           <div className="flex flex-col sm:flex-row items-stretch sm:items-center gap-3 sm:gap-4 mt-2 sm:mt-4">
             <a
@@ -25,10 +29,7 @@ export default function HeroSection() {
         </div>
         <div className="lg:col-span-4 lg:col-start-9 flex justify-start lg:justify-end">
           <p className="font-body-lg text-sm sm:text-body-lg text-secondary-elevateaxis max-w-sm text-left pt-2 lg:pt-4">
-            Stop wasting ad spend on cheap clicks and un-contactable leads. We
-            engineer complete customer acquisition systems that combine market
-            research, offer engineering, precision ad strategy, and automated
-            qualification to deliver booked pipeline and attributed revenue.
+            Most agencies send a thousand junk leads and call it a day. We deliver serious high-intent buyers with verified budget, and we don&apos;t stop until they are booked onto your calendar. That&apos;s <strong>ELEVATE™ | Realty &amp; Business Growth Engine</strong>.
           </p>
         </div>
       </div>

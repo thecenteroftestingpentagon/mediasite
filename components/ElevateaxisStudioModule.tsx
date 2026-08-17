@@ -30,9 +30,9 @@ export default function ElevateaxisStudioModule() {
         {/* Large Card 1 */}
         <div className="bg-card-elevateaxis rounded-2xl border border-elevateaxis min-h-[260px] sm:h-[300px] flex flex-col justify-end relative overflow-hidden group hover:shadow-sm transition-shadow">
           <img
-            alt="Offer Engineering & Creative Strategy"
+            alt="High-Ticket Luxury Property & Offer Engineering"
             className="absolute inset-0 w-full h-full object-cover group-hover:opacity-100 transition-opacity duration-500"
-            src="https://images.unsplash.com/photo-1604076850742-4c7221f3101b?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            src="https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?q=80&w=1200&auto=format&fit=crop"
           />
           <div className="z-10 bg-white/20 backdrop-blur-xl border border-white/30 p-5 sm:p-6 rounded-b-2xl text-white">
             <h4 className="font-h3 text-lg sm:text-[20px] mb-2 text-white">Customer Intelligence &amp; Offer Engineering</h4>
