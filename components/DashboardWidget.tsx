@@ -5,21 +5,21 @@ export default function DashboardWidget() {
       <div className="flex items-center justify-between">
         <div className="flex flex-col">
           <span className="text-[11px] font-bold uppercase tracking-[0.25em] text-primary/50 mb-1">
-            Neural Engine v4.2 PRO
+            ELEVATE™ Engine v4.2 PRO
           </span>
           <span className="text-sm font-semibold text-primary tracking-tight">
-            Real-time Synthesis Active
+            Active Acquisition Pipeline
           </span>
         </div>
         <div className="flex items-center gap-2.5 bg-emerald-500/15 px-3 py-1.5 rounded-full border border-emerald-500/25">
           <div className="w-2 h-2 rounded-full bg-emerald-500 animate-pulse"></div>
           <span className="text-[10px] font-bold text-emerald-700 uppercase tracking-widest">
-            Studio Mode
+            Performance Mode
           </span>
         </div>
       </div>
 
-      {/* Enhanced Spectral Visualization */}
+      {/* Enhanced Spectral / Funnel Visualization */}
       <div className="flex items-end justify-between h-24 gap-1">
         <div className="w-1.5 bg-gradient-to-t from-blue-500/40 to-blue-500 rounded-full h-[25%]"></div>
         <div className="w-1.5 bg-gradient-to-t from-blue-500/40 to-blue-500 rounded-full h-[40%]"></div>
@@ -41,58 +41,58 @@ export default function DashboardWidget() {
       <div className="grid grid-cols-3 gap-6 py-2">
         <div className="flex flex-col gap-1">
           <span className="text-[10px] uppercase tracking-widest text-secondary-elevateaxis font-semibold">
-            Latency
+            Speed-To-Lead
           </span>
           <div className="flex items-baseline gap-1">
-            <span className="text-xl font-bold text-primary">24</span>
+            <span className="text-xl font-bold text-primary">&lt;60</span>
             <span className="text-xs text-secondary-elevateaxis font-medium">
-              ms
+              sec
             </span>
           </div>
         </div>
         <div className="flex flex-col gap-1">
           <span className="text-[10px] uppercase tracking-widest text-secondary-elevateaxis font-semibold">
-            Confidence
+            Qualification
           </span>
           <div className="flex items-baseline gap-1">
-            <span className="text-xl font-bold text-primary">99.8</span>
+            <span className="text-xl font-bold text-primary">84.2</span>
             <span className="text-xs text-secondary-elevateaxis font-medium">%</span>
           </div>
         </div>
         <div className="flex flex-col gap-1">
           <span className="text-[10px] uppercase tracking-widest text-secondary-elevateaxis font-semibold">
-            Stability
+            Target ROAS
           </span>
           <div className="flex items-baseline gap-1">
-            <span className="text-xl font-bold text-primary">0.02</span>
+            <span className="text-xl font-bold text-primary">3.4x</span>
             <span className="text-xs text-secondary-elevateaxis font-medium">
-              jitter
+              att.
             </span>
           </div>
         </div>
       </div>
 
-      {/* Playback Controls */}
+      {/* Playback / Pipeline Controls */}
       <div className="flex items-center justify-between border-t border-black/5 pt-6">
         <div className="flex items-center gap-6">
           <button className="material-symbols-outlined text-2xl text-primary/50 hover:text-primary transition-colors">
-            skip_previous
+            analytics
           </button>
           <button className="w-12 h-12 bg-primary text-on-primary rounded-full flex items-center justify-center shadow-lg hover:scale-110 transition-transform">
             <span className="material-symbols-outlined fill text-2xl">
-              play_arrow
+              bolt
             </span>
           </button>
           <button className="material-symbols-outlined text-2xl text-primary/50 hover:text-primary transition-colors">
-            skip_next
+            check_circle
           </button>
         </div>
         <div className="flex flex-col items-end gap-1">
           <span className="text-[12px] font-mono font-bold text-primary bg-white/50 px-3 py-1 rounded-lg border border-white/60 shadow-sm">
-            00:42.12
+            Live Attributed Leads
           </span>
           <span className="text-[9px] font-bold text-secondary-elevateaxis/60 uppercase tracking-tighter">
-            Total Length 04:20
+            Verified Customer Journey
           </span>
         </div>
       </div>

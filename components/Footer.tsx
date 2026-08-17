@@ -7,21 +7,21 @@ export default function Footer() {
             Elevateaxis
           </span>
           <span className="text-sm text-[#6B6B6B] font-body-md">
-            © 2024 Elevateaxis AI. Engineered for precision.
+            © 2024 Elevateaxis. High-Converting Customer Acquisition &amp; Revenue Systems.
           </span>
         </div>
         <div className="flex flex-wrap items-center gap-6">
           <a
             className="text-sm text-[#6B6B6B] hover:text-primary transition-colors font-body-md"
-            href="#"
+            href="#growth-system"
           >
-            Twitter
+            Growth System
           </a>
           <a
             className="text-sm text-[#6B6B6B] hover:text-primary transition-colors font-body-md"
-            href="#"
+            href="#the-framework"
           >
-            GitHub
+            Framework
           </a>
           <a
             className="text-sm text-[#6B6B6B] hover:text-primary transition-colors font-body-md"

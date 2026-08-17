@@ -12,48 +12,42 @@ export default function Navbar() {
           <div className="hidden md:flex items-center gap-6">
             <a
               className="text-sm font-medium tracking-tight text-zinc-500 hover:text-zinc-900 transition-colors duration-200 font-body-md"
-              href="#"
+              href="#growth-system"
             >
-              Elevateaxis Studio
+              Growth System
             </a>
             <a
               className="text-sm font-medium tracking-tight text-zinc-500 hover:text-zinc-900 transition-colors duration-200 font-body-md"
-              href="#"
+              href="#the-framework"
             >
-              Elevateaxis Agents
+              ELEVATE™ Framework
             </a>
             <a
               className="text-sm font-medium tracking-tight text-zinc-500 hover:text-zinc-900 transition-colors duration-200 font-body-md"
-              href="#"
+              href="#qualification"
             >
-              Elevateaxis API
+              Who We Scale
             </a>
             <a
               className="text-sm font-medium tracking-tight text-zinc-500 hover:text-zinc-900 transition-colors duration-200 font-body-md"
-              href="#"
+              href="#industries"
             >
-              Resources
+              Industries
             </a>
             <a
               className="text-sm font-medium tracking-tight text-zinc-500 hover:text-zinc-900 transition-colors duration-200 font-body-md"
-              href="#"
+              href="#why-us"
             >
-              Enterprise
-            </a>
-            <a
-              className="text-sm font-medium tracking-tight text-zinc-500 hover:text-zinc-900 transition-colors duration-200 font-body-md"
-              href="#"
-            >
-              Pricing
+              Why Us
             </a>
           </div>
         </div>
         <div className="flex items-center">
           <a
             className="bg-primary text-on-primary px-4 py-2 rounded-full font-medium transition-all scale-98 active:opacity-80 text-[14px] font-body-md"
-            href="#"
+            href="#strategy-call"
           >
-            Sign up
+            Book Strategy Call
           </a>
         </div>
       </div>
