@@ -45,10 +45,13 @@ export default function CareerSection() {
                 priority
               />
               <div className="absolute inset-0 bg-gradient-to-t from-black/40 via-transparent to-transparent"></div>
-              <div className="absolute bottom-4 left-4 right-4 bg-white/20 backdrop-blur-md p-3.5 rounded-xl border border-white/40 text-white text-xs font-medium flex items-center justify-between">
+              <a
+                href="mailto:swagatobhattacharjee07@gmail.com?subject=Application%20for%20Elevateaxis%20Team"
+                className="absolute bottom-4 left-4 right-4 bg-white/20 hover:bg-white/30 backdrop-blur-md p-3.5 rounded-xl border border-white/40 text-white text-xs font-medium flex items-center justify-between transition-all group-hover:border-white/70"
+              >
                 <span>High Performance &middot; Limitless Incentives</span>
-                <span className="font-mono text-amber-300 font-bold">Join Us &rarr;</span>
-              </div>
+                <span className="font-mono text-amber-300 font-bold group-hover:translate-x-1 transition-transform">Join Us &rarr;</span>
+              </a>
             </div>
           </div>
         </div>
