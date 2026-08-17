@@ -7,12 +7,12 @@ export default function Navbar() {
 
   return (
     <>
-      {/* Announcement Ribbon from content.html */}
+      {/* Top Announcement Ribbon */}
       <div className="fixed top-0 w-full z-50 bg-[#1C1B1B] text-white py-1.5 px-4 overflow-hidden border-b border-white/10 text-[11px] font-medium tracking-wide">
         <div className="max-w-[1280px] mx-auto flex items-center justify-between">
           <div className="flex items-center gap-4 overflow-x-auto no-scrollbar whitespace-nowrap">
             <span className="flex items-center gap-1 text-amber-400">
-              🏙️ Gurgaon, Dubai &amp; Global High-Ticket Markets
+              🇮🇳 India, Dubai &amp; Global High-Ticket Markets
             </span>
             <span className="opacity-40">◆</span>
             <span className="text-zinc-300">
@@ -25,12 +25,6 @@ export default function Navbar() {
             <span className="opacity-40">◆</span>
             <span className="text-zinc-300">Booking Strategy Calls Now</span>
           </div>
-          <a
-            href="tel:+919911906692"
-            className="hidden xl:flex items-center gap-1 text-xs text-amber-400 hover:text-white transition-colors shrink-0 pl-4 font-mono"
-          >
-            📞 +91-9911-906-692
-          </a>
         </div>
       </div>
 
