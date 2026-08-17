@@ -31,11 +31,16 @@ export default function HeroProductPanel() {
 
         {/* Play Button Center */}
         <div className="z-10 self-center my-auto flex flex-col items-center gap-4 text-center">
-          <button className="w-20 h-20 bg-surface rounded-full flex items-center justify-center shadow-lg border border-elevateaxis transition-transform hover:scale-105 group">
+          <a
+            href="https://cal.com/om-choksi-whpxfw/15min"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="w-20 h-20 bg-surface rounded-full flex items-center justify-center shadow-lg border border-elevateaxis transition-transform hover:scale-105 group"
+          >
             <span className="material-symbols-outlined text-4xl text-primary pl-1 group-hover:text-emerald-600 transition-colors">
               trending_up
             </span>
-          </button>
+          </a>
           <span className="text-xs font-bold uppercase tracking-widest text-primary/60">
             Ad → Lead → Qualified → Appointment → Revenue
           </span>
@@ -54,7 +59,7 @@ export default function HeroProductPanel() {
               3. Automated Qualification
             </span>
             <span className="text-sm font-medium text-secondary-elevateaxis">
-              4. CRM & Follow-Up
+              4. CRM &amp; Follow-Up
             </span>
             <span className="text-sm font-medium text-secondary-elevateaxis">
               5. Revenue Attribution
@@ -62,7 +67,9 @@ export default function HeroProductPanel() {
           </div>
           <a
             className="bg-primary text-on-primary px-6 py-2 rounded-full text-sm font-medium whitespace-nowrap"
-            href="#strategy-call"
+            href="https://cal.com/om-choksi-whpxfw/15min"
+            target="_blank"
+            rel="noopener noreferrer"
           >
             Claim Free Audit
           </a>

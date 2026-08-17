@@ -42,10 +42,18 @@ export default function Navbar() {
             </a>
           </div>
         </div>
-        <div className="flex items-center">
+        <div className="flex items-center gap-4">
+          <a
+            className="hidden lg:inline-block text-xs font-medium text-zinc-600 hover:text-primary transition-colors"
+            href="mailto:swagatobhattacharjee07@gmail.com"
+          >
+            swagatobhattacharjee07@gmail.com
+          </a>
           <a
             className="bg-primary text-on-primary px-4 py-2 rounded-full font-medium transition-all scale-98 active:opacity-80 text-[14px] font-body-md"
-            href="#strategy-call"
+            href="https://cal.com/om-choksi-whpxfw/15min"
+            target="_blank"
+            rel="noopener noreferrer"
           >
             Book Strategy Call
           </a>

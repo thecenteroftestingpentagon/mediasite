@@ -9,15 +9,17 @@ export default function HeroSection() {
           <div className="flex flex-wrap items-center gap-4 mt-4">
             <a
               className="bg-primary text-on-primary px-6 py-3 rounded-full font-medium transition-all hover:bg-opacity-90"
-              href="#strategy-call"
+              href="https://cal.com/om-choksi-whpxfw/15min"
+              target="_blank"
+              rel="noopener noreferrer"
             >
               Book Your Free Strategy Call
             </a>
             <a
               className="bg-transparent border border-outline text-primary px-6 py-3 rounded-full font-medium transition-all hover:bg-surface-variant"
-              href="#growth-system"
+              href="mailto:swagatobhattacharjee07@gmail.com"
             >
-              Explore The System
+              Email Us Directly
             </a>
           </div>
         </div>
