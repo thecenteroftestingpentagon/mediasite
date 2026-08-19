@@ -9,15 +9,15 @@ export default function CareerSection() {
           <div className="lg:col-span-6 flex flex-col gap-6 z-10">
             <div className="inline-flex items-center gap-2 bg-surface-container-low border border-elevateaxis px-3.5 py-1.5 rounded-full text-xs font-semibold text-primary w-fit shadow-sm">
               <span className="w-2 h-2 rounded-full bg-amber-500 animate-pulse"></span>
-              Join Our Elite Team &middot; We&apos;re Hiring
+              Join Our Dubai Team &middot; We&apos;re Hiring
             </div>
 
             <h2 className="font-h2 text-3xl sm:text-4xl lg:text-[44px] text-primary leading-tight">
-              Exceptional service is our thing and our teams make it happen.
+              Exceptional real estate growth takes extraordinary sales &amp; marketing talent.
             </h2>
 
             <p className="font-body-lg text-sm sm:text-body-lg text-secondary-elevateaxis leading-relaxed">
-              We&apos;re looking for ambitious individuals that thrive in a high-pressure, incentive driven environment and we provide such candidates with the opportunity to earn almost limitless amounts of tax-free money.
+              We&apos;re looking for ambitious growth marketers and media buyers that thrive in Dubai&apos;s fast-paced real estate sector, with uncapped performance incentives and tax-free earnings.
             </p>
 
             <div className="pt-2 flex flex-col sm:flex-row items-stretch sm:items-center gap-4">
@@ -38,7 +38,7 @@ export default function CareerSection() {
             <div className="relative w-full aspect-[4/3] rounded-2xl overflow-hidden border border-white/60 shadow-2xl bg-surface-variant/40 group">
               <Image
                 src="/estate.png"
-                alt="Exceptional Service & Elite Team Estate - Elevatexis"
+                alt="Dubai Real Estate Performance Marketing Team - Elevatexis"
                 fill
                 sizes="(max-width: 1024px) 100vw, 50vw"
                 className="object-cover rounded-2xl group-hover:scale-105 transition-transform duration-700"

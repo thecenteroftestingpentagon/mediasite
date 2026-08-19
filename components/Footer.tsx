@@ -9,7 +9,7 @@ export default function Footer() {
             Elevatexis
           </span>
           <span className="text-xs sm:text-sm text-[#6B6B6B] font-body-md">
-            © 2026 Elevatexis. High-Converting Customer Acquisition Systems.
+            © 2026 Elevatexis. Dubai Real Estate Performance Lead Systems.
           </span>
         </div>
         <div className="flex flex-col sm:flex-row items-center gap-4 sm:gap-6 text-center">

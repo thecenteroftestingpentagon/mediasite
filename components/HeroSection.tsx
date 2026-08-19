@@ -4,10 +4,10 @@ export default function HeroSection() {
       <div className="grid grid-cols-1 lg:grid-cols-12 gap-6 sm:gap-8 items-start">
         <div className="lg:col-span-7 flex flex-col gap-6 sm:gap-8">
           <div className="inline-flex items-center gap-2 bg-surface-container-low border border-elevateaxis px-3.5 py-1.5 rounded-full text-xs font-semibold text-primary w-fit shadow-sm">
-            Guaranteed Leads &middot; 60% Qualification Guarantee
+            Guaranteed Property Leads &middot; 60% Buyer Qualification Guarantee
           </div>
           <h1 className="font-h1 text-4xl sm:text-6xl lg:text-h1 text-primary leading-tight">
-            We Bring You Real Paying Customers — Guaranteed.
+            We Deliver Qualified Dubai Real Estate Buyers — Guaranteed.
           </h1>
           <div className="flex flex-col sm:flex-row items-stretch sm:items-center gap-3 sm:gap-4 mt-2 sm:mt-4">
             <a
@@ -40,7 +40,7 @@ export default function HeroSection() {
         </div>
         <div className="lg:col-span-4 lg:col-start-9 flex justify-start lg:justify-end">
           <p className="font-body-lg text-sm sm:text-body-lg text-secondary-elevateaxis max-w-sm text-left pt-2 lg:pt-4">
-            Tired of agencies giving you fake phone numbers and junk leads? We create your ad campaigns, filter out tire-kickers, and send real buyers directly to your phone or calendar. <strong>If 60% of your leads aren&apos;t qualified, you don&apos;t pay us.</strong>
+            Tired of property portals giving you fake numbers and unqualified leads? We run targeted buyer campaigns, screen for real budget &amp; intent, and put serious investors directly on your calendar. <strong>If 60% of your leads aren&apos;t qualified, you don&apos;t pay us.</strong>
           </p>
         </div>
       </div>

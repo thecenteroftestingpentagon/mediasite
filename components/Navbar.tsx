@@ -12,15 +12,15 @@ export default function Navbar() {
         <div className="flex whitespace-nowrap overflow-hidden">
           <div className="flex shrink-0 items-center gap-8 animate-marquee pr-8">
             <span className="flex items-center gap-1.5 text-amber-400 font-semibold">
-              🇮🇳 India, Dubai &amp; Global High-Ticket Markets
+              🇦🇪 Dubai &amp; UAE Real Estate Lead Generation
             </span>
             <span className="opacity-40">◆</span>
             <span className="text-zinc-300">
-              Capped at 40 Client Seats for 2026
+              Capped at [VERIFY: 10 Developer/Brokerage Seats] for 2026
             </span>
             <span className="opacity-40">◆</span>
             <span className="text-emerald-400 font-semibold">
-              Guaranteed 60% Qualified Leads &amp; 40% More Booked Meetings
+              Guaranteed 60% Qualified Buyer Leads &amp; Verified Site Visits
             </span>
             <span className="opacity-40">◆</span>
             <span className="text-amber-400 font-medium">
@@ -37,7 +37,7 @@ export default function Navbar() {
             </a>
             <span className="opacity-40">◆</span>
             <span className="text-emerald-400 font-semibold">
-              🛡️ 60% Lead Qualification Guarantee Or You Don&apos;t Pay
+              🛡️ 60% Buyer Qualification Guarantee Or You Don&apos;t Pay
             </span>
             <span className="opacity-40">◆</span>
             <a
@@ -56,15 +56,15 @@ export default function Navbar() {
             className="flex shrink-0 items-center gap-8 animate-marquee pr-8"
           >
             <span className="flex items-center gap-1.5 text-amber-400 font-semibold">
-              🇮🇳 India, Dubai &amp; Global High-Ticket Markets
+              🇦🇪 Dubai &amp; UAE Real Estate Lead Generation
             </span>
             <span className="opacity-40">◆</span>
             <span className="text-zinc-300">
-              Capped at 40 Client Seats for 2026
+              Capped at [VERIFY: 10 Developer/Brokerage Seats] for 2026
             </span>
             <span className="opacity-40">◆</span>
             <span className="text-emerald-400 font-semibold">
-              Guaranteed 60% Qualified Leads &amp; 40% More Booked Meetings
+              Guaranteed 60% Qualified Buyer Leads &amp; Verified Site Visits
             </span>
             <span className="opacity-40">◆</span>
             <span className="text-amber-400 font-medium">
@@ -81,7 +81,7 @@ export default function Navbar() {
             </a>
             <span className="opacity-40">◆</span>
             <span className="text-emerald-400 font-semibold">
-              🛡️ 60% Lead Qualification Guarantee Or You Don&apos;t Pay
+              🛡️ 60% Buyer Qualification Guarantee Or You Don&apos;t Pay
             </span>
             <span className="opacity-40">◆</span>
             <a
@@ -111,31 +111,31 @@ export default function Navbar() {
                 className="text-sm font-medium tracking-tight text-zinc-500 hover:text-zinc-900 transition-colors duration-200 font-body-md"
                 href="#growth-system"
               >
-                Growth System
+                The System
               </a>
               <a
                 className="text-sm font-medium tracking-tight text-zinc-500 hover:text-zinc-900 transition-colors duration-200 font-body-md"
                 href="#the-framework"
               >
-                ELEVATE™ Framework
+                Lead Framework
               </a>
               <a
                 className="text-sm font-medium tracking-tight text-zinc-500 hover:text-zinc-900 transition-colors duration-200 font-body-md"
                 href="#qualification"
               >
-                Who We Scale
+                Who We Work With
               </a>
               <a
                 className="text-sm font-medium tracking-tight text-zinc-500 hover:text-zinc-900 transition-colors duration-200 font-body-md"
                 href="#industries"
               >
-                Proof &amp; Industries
+                Dubai Segments
               </a>
               <a
                 className="text-sm font-medium tracking-tight text-zinc-500 hover:text-zinc-900 transition-colors duration-200 font-body-md"
                 href="#why-us"
               >
-                Why Us
+                Why Elevatexis
               </a>
             </div>
           </div>
@@ -189,35 +189,35 @@ export default function Navbar() {
               className="text-base font-medium text-zinc-800 hover:text-primary"
               href="#growth-system"
             >
-              Growth System
+              The System
             </a>
             <a
               onClick={() => setMobileMenuOpen(false)}
               className="text-base font-medium text-zinc-800 hover:text-primary"
               href="#the-framework"
             >
-              ELEVATE™ Framework
+              Lead Framework
             </a>
             <a
               onClick={() => setMobileMenuOpen(false)}
               className="text-base font-medium text-zinc-800 hover:text-primary"
               href="#qualification"
             >
-              Who We Scale
+              Who We Work With
             </a>
             <a
               onClick={() => setMobileMenuOpen(false)}
               className="text-base font-medium text-zinc-800 hover:text-primary"
               href="#industries"
             >
-              Proof &amp; Industries
+              Dubai Segments
             </a>
             <a
               onClick={() => setMobileMenuOpen(false)}
               className="text-base font-medium text-zinc-800 hover:text-primary"
               href="#why-us"
             >
-              Why Us
+              Why Elevatexis
             </a>
             <hr className="border-zinc-200 my-1" />
             <a

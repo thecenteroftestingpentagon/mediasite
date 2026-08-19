@@ -5,7 +5,7 @@ export default function DashboardWidget() {
       <div className="flex items-center justify-between">
         <div className="flex flex-col">
           <span className="text-[10px] sm:text-[11px] font-bold uppercase tracking-[0.2em] sm:tracking-[0.25em] text-primary/50 mb-0.5 sm:mb-1">
-            ELEVATE™ Lead System
+            ELEVATE™ Property Lead System
           </span>
           <span className="text-xs sm:text-sm font-semibold text-primary tracking-tight">
             Live Verified Buyers Tracker
@@ -52,7 +52,7 @@ export default function DashboardWidget() {
         </div>
         <div className="flex flex-col gap-0.5 sm:gap-1">
           <span className="text-[9px] sm:text-[10px] uppercase tracking-widest text-secondary-elevateaxis font-semibold">
-            Real Buyers
+            Verified Buyers
           </span>
           <div className="flex items-baseline gap-0.5 sm:gap-1">
             <span className="text-base sm:text-xl font-bold text-primary">60%+</span>
@@ -89,10 +89,10 @@ export default function DashboardWidget() {
         </div>
         <div className="flex flex-col items-end gap-0.5 sm:gap-1">
           <span className="text-[10px] sm:text-[12px] font-mono font-bold text-primary bg-white/50 px-2 sm:px-3 py-0.5 sm:py-1 rounded-lg border border-white/60 shadow-sm">
-            Guaranteed Client Delivery
+            Guaranteed Buyer Delivery
           </span>
           <span className="text-[8px] sm:text-[9px] font-bold text-secondary-elevateaxis/60 uppercase tracking-tighter">
-            Zero Risk For Your Business
+            Zero Risk For Your Brokerage
           </span>
         </div>
       </div>

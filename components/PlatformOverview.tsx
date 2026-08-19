@@ -5,10 +5,10 @@ export default function PlatformOverview() {
     <section id="the-framework" className="max-w-[1280px] mx-auto px-4 sm:px-8 mb-[100px] sm:mb-[180px]">
       <div className="text-center max-w-3xl mx-auto mb-10 sm:mb-16">
         <h2 className="font-h2 text-h2 text-primary mb-4 sm:mb-6">
-          Stop Paying For 500 Lead Forms That Never Pick Up The Phone.
+          Stop Paying For 500 Portal Leads That Never Pick Up The Phone.
         </h2>
         <p className="font-body-lg text-body-lg text-secondary-elevateaxis">
-          Your sales team shouldn&apos;t waste 40 hours a week calling fake numbers, tire-kickers, and people who &quot;don&apos;t remember opting in&quot;. We filter out the noise and put verified, high-budget buyers directly on your calendar.
+          Your sales team shouldn&apos;t waste 40 hours a week calling fake numbers, overseas tire-kickers, and people who &quot;clicked by mistake&quot;. We screen for AED budget, Golden Visa intent, and timeline before booking viewings on your calendar.
         </p>
       </div>
       <div className="grid grid-cols-1 md:grid-cols-2 gap-6 sm:gap-8 mb-8 sm:mb-12">
@@ -21,9 +21,9 @@ export default function PlatformOverview() {
             </span>
           </div>
           <div className="z-10">
-            <h4 className="font-h3 text-[18px] sm:text-[20px] mb-2">The Old Way: Wasted Time &amp; Burnt Out Sales Teams</h4>
+            <h4 className="font-h3 text-[18px] sm:text-[20px] mb-2">The Old Way: Wasted Ad Spend &amp; Burnt-Out Brokers</h4>
             <p className="text-xs sm:text-sm text-secondary-elevateaxis">
-              Agencies hand you spreadsheets of 500 cheap leads. Your team dials all day, hits disconnected numbers, and gets yelled at by people who never meant to fill out a form.
+              Portals and agencies hand you spreadsheets of 500 cheap lead forms. Your team dials overseas numbers all day, hits invalid contacts, and chases unqualified inquiries.
             </p>
           </div>
         </div>
@@ -37,9 +37,9 @@ export default function PlatformOverview() {
             </span>
           </div>
           <div className="z-10">
-            <h4 className="font-h3 text-[18px] sm:text-[20px] mb-2">The Elevatexis Way: Pre-Screened Motivated Buyers</h4>
+            <h4 className="font-h3 text-[18px] sm:text-[20px] mb-2">The Elevatexis Way: Pre-Screened Motivated Property Buyers</h4>
             <p className="text-xs sm:text-sm text-secondary-elevateaxis">
-              Every lead answers qualification questions about their budget and purchase timeline before you speak with them. If 60% aren&apos;t qualified, you don&apos;t pay.
+              Every lead is screened for budget, cash vs mortgage, investment timeline, and decision-maker status before your sales team calls. If 60% aren&apos;t qualified, you don&apos;t pay.
             </p>
           </div>
         </div>
@@ -47,7 +47,7 @@ export default function PlatformOverview() {
 
       <div className="w-full min-h-[460px] sm:min-h-[560px] bg-panel-elevateaxis rounded-3xl border border-elevateaxis flex items-center justify-center overflow-hidden relative group p-4 sm:p-8">
         <img
-          alt="Luxury Real Estate & High-Ticket Asset Pipeline"
+          alt="Luxury Dubai Real Estate & Property Pipeline"
           className="w-full h-full object-cover opacity-80 group-hover:opacity-100 transition-opacity duration-500 absolute inset-0"
           src="https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?q=80&w=1200&auto=format&fit=crop"
         />

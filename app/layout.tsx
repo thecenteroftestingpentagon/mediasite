@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Elevatexis - Bringing technology to life",
-  description: "Making digital experiences sound human",
+  title: "Elevatexis - Dubai Real Estate Performance Marketing & Lead Generation",
+  description: "Qualified property buyer lead generation & automated booking funnels for Dubai developers & brokerages.",
 };
 
 export default function RootLayout({

@@ -47,7 +47,7 @@ export default function HeroProductPanel() {
           </div>
           <div className="bg-surface-container-low px-3 sm:px-4 py-1.5 sm:py-2 rounded-full border border-elevateaxis flex items-center gap-2">
             <span className="w-2 h-2 rounded-full bg-emerald-500 animate-pulse"></span>
-            <span className="text-xs sm:text-sm font-medium">Elevateaxis Customer Engine</span>
+            <span className="text-xs sm:text-sm font-medium">Elevatexis Property Buyer Engine</span>
           </div>
         </div>
 
@@ -74,7 +74,7 @@ export default function HeroProductPanel() {
               </span>
             </a>
             <span className="text-[10px] sm:text-xs font-bold uppercase tracking-widest text-primary/70 px-4">
-              Create Ads &rarr; Filter Fake Leads &rarr; Send Real Buyers &rarr; You Make Sales
+              Targeted Ads &rarr; Screen Investors &rarr; Verified Viewings &rarr; Closed Deals
             </span>
           </div>
         ) : (
@@ -83,7 +83,7 @@ export default function HeroProductPanel() {
             <div className="relative w-full rounded-2xl overflow-hidden border border-white/60 shadow-2xl bg-white/30 backdrop-blur-md transition-all duration-300 group">
               <Image
                 src="/leads.png"
-                alt="Zero Tech Knowledge Needed - Guaranteed Qualified Leads"
+                alt="Zero Tech Setup - Guaranteed Qualified Dubai Real Estate Leads"
                 width={1200}
                 height={675}
                 className="w-full h-auto object-cover rounded-2xl group-hover:scale-[1.01] transition-transform duration-500"
@@ -93,13 +93,13 @@ export default function HeroProductPanel() {
 
             {activeTab === "zero-tech" && (
               <div className="bg-white/90 backdrop-blur-md px-5 py-2 rounded-full border border-white shadow-md text-xs sm:text-sm font-semibold text-primary animate-fadeIn">
-                ⚡ <strong>Zero Tech Setup Needed:</strong> We write ads, build pages, &amp; screen leads for you 100% done-for-you.
+                ⚡ <strong>Zero Tech Setup Needed:</strong> We launch property ads, landing pages, &amp; screen buyers 100% done-for-you.
               </div>
             )}
 
             {activeTab === "guaranteed-leads" && (
               <div className="bg-white/90 backdrop-blur-md px-5 py-2 rounded-full border border-white shadow-md text-xs sm:text-sm font-semibold text-emerald-700 animate-fadeIn">
-                🛡️ <strong>60% Qualification Guarantee:</strong> Every lead is verified for real budget &amp; purchase intent.
+                🛡️ <strong>60% Buyer Qualification Guarantee:</strong> Every lead is screened for real AED budget &amp; purchase intent.
               </div>
             )}
           </div>
@@ -109,16 +109,16 @@ export default function HeroProductPanel() {
         <div className="flex flex-col sm:flex-row justify-between items-center gap-4 z-10 bg-surface/80 backdrop-blur-md p-4 rounded-2xl border border-elevateaxis">
           <div className="flex gap-4 sm:gap-6 overflow-x-auto no-scrollbar w-full sm:w-auto pb-2 sm:pb-0">
             <span className="text-xs sm:text-sm font-medium text-primary whitespace-nowrap">
-              1. We Create Your Ads
+              1. We Launch Targeted Ads
             </span>
             <span className="text-xs sm:text-sm font-medium text-secondary-elevateaxis whitespace-nowrap">
-              2. We Filter Out Junk Leads
+              2. We Screen Unqualified Leads
             </span>
             <span className="text-xs sm:text-sm font-medium text-secondary-elevateaxis whitespace-nowrap">
-              3. We Send Buyers to Your WhatsApp
+              3. We Send Investors to Your WhatsApp
             </span>
             <span className="text-xs sm:text-sm font-medium text-secondary-elevateaxis whitespace-nowrap">
-              4. You Close The Sales
+              4. Your Team Closes Property Sales
             </span>
           </div>
           <a
