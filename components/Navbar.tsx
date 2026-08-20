@@ -99,14 +99,14 @@ export default function Navbar() {
 
       <nav className="fixed top-[28px] sm:top-[30px] w-full z-40 border-b border-zinc-200/60 bg-[#F7F7F5]/90 backdrop-blur-md transition-all">
         <div className="max-w-[1280px] mx-auto px-4 sm:px-8 flex justify-between items-center h-[64px] sm:h-[72px]">
-          <div className="flex items-center gap-6 md:gap-12">
+          <div className="flex items-center gap-4 md:gap-6">
             <a
               className="text-lg font-bold tracking-tighter text-zinc-900 text-[18px] sm:text-[20px] font-h1"
               href="#"
             >
               Elevatexis
             </a>
-            <div className="hidden md:flex items-center gap-6">
+            <div className="hidden md:flex items-center gap-3 lg:gap-4">
               <a
                 className="text-sm font-medium tracking-tight text-zinc-500 hover:text-zinc-900 transition-colors duration-200 font-body-md"
                 href="#growth-system"
@@ -140,7 +140,7 @@ export default function Navbar() {
             </div>
           </div>
 
-          <div className="hidden md:flex items-center gap-4">
+          <div className="hidden md:flex items-center gap-3">
             <a
               className="hidden lg:inline-block text-xs font-medium text-emerald-700 hover:text-emerald-800 transition-colors font-mono"
               href="https://wa.me/918582807895"
@@ -150,7 +150,7 @@ export default function Navbar() {
               💬 +91 85828 07895
             </a>
             <a
-              className="bg-primary text-on-primary px-4 py-2 rounded-full font-medium transition-all scale-98 active:opacity-80 text-[14px] font-body-md"
+              className="bg-primary text-on-primary px-3.5 py-2 rounded-full font-medium transition-all scale-98 active:opacity-80 text-[14px] font-body-md"
               href="https://cal.com/om-choksi-whpxfw/15min"
               target="_blank"
               rel="noopener noreferrer"
